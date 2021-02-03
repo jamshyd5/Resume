@@ -30,7 +30,7 @@ h3{
 
 #whitebk {
 	padding-top: 13px;
-	margin-right: 600px;
+	margin-right: 200px;
 	padding-bottom: 13px;
 	margin-left: 400px;
 	border-radius: 10px;
@@ -77,6 +77,32 @@ a:hover{
 	padding-right: 50px;
 	background-color: white;
 	margin-left: 750px;
+	margin-right: 200px;
+	margin-top: -290px;
+	line-height: 30px;
+	word-spacing: 10px;
+}
+.obs{
+	float: left;
+	font-size: 24pt;
+	font-weight: bolder;
+	margin-left: 900px;
+	margin-top: -370px;
+	margin-bottom: 40px;
+	color: #228B22
+}
+/*
+.obj{
+	font-size: 16pt;
+	float: left;
+	border: solid;
+	font-size: 14pt;
+	border-spacing: 15px;
+	border-radius: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: white;
+	margin-left: 750px;
 	margin-right: 450px;
 	margin-top: -310px;
 	line-height: 30px;
@@ -87,7 +113,6 @@ a:hover{
 	margin-right: 700px;
 	margin-top: -70px;
 }
-/*
 .links{
 	background-color: rgb(0, 192, 138);
 	margin-left: 375px;
